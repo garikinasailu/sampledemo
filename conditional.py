@@ -92,6 +92,8 @@
 number=int(input ("enter the number:"))
 print(f" {number} even number") if number%2==0 else print(f" {number} odd number")
 
+some change is done
+
 
 
 
